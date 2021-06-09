@@ -16,7 +16,7 @@
         "swiftmailer/swiftmailer": ">=4.1.2,<4.2-dev",
         "incenteev/composer-parameter-handler": "~2.0",
         "kurl/silex-doctrine-migrations-provider": "~0.1",
-        "doctrine/migrations": "1.0.*@dev"
+        "doctrine/migrations": "^1.0"
     },
     "suggest": {
         "ext-apc": "Opcode cache. Improves Application performance."
